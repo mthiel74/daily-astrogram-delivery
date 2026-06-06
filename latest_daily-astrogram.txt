@@ -1,0 +1,44 @@
+Quantity	Value
+Location	Scotland, United Kingdom (approximate)
+Coordinates	57.2 N, 2.3 W (approx.)
+Location source	approximate (rounded to ~10 km for privacy)
+Date	2026-06-06
+Sunrise	2026-06-06 04:16 BST
+Sunrise bearing	42.7 deg (NE)
+Solar noon	2026-06-06 13:08 BST
+Solar noon altitude	55.5 deg
+Solar noon azimuth	180.1 deg (S)
+Sunset	2026-06-06 21:59 BST
+Sunset bearing	317.5 deg (NW)
+Day length	17 h 43 min
+Planet/asterism positions shown at	2026-06-06 22:29 BST
+
+Hiker brief	Value
+Magnetic declination	-0.2 deg (west)
+Compass note	small locally; still set compass/map declination if navigating precisely
+Civil twilight	2026-06-06 03:08 BST to 2026-06-06 23:12 BST
+Nautical twilight	all night above -12 deg to all night above -12 deg
+Astronomical twilight	all night above -18 deg to all night above -18 deg
+Suggested daylight turnaround	2026-06-06 20:29 BST (90 min before sunset)
+Moon phase value	74.0%
+Moon at evening sky time	75.2 deg (ENE), elevation -24.8 deg
+Moonrise / moonset	2026-06-06 01:30 BST / 2026-06-06 10:10 BST
+Current weather	conditions unavailable, 14 deg C
+Forecast min / max temp	5.9 deg C / 13.3 deg C
+Rain next 24h	0.0 mm
+Wind next 24h	max 17.9 km/h from WSW
+Humidity / cloud	83.6% mean humidity; 0.0% max cloud
+Tides nearest coast	Aberdeen (14.8 km to station): High 05:38 BST (3.7 m); Low 11:51 BST (1.2 m); High 18:34 BST (3.4 m)
+Foraging caution	possible seasonal plants include nettle, dandelion, sorrel, chickweed, wild garlic; do not eat without positive ID and lookalike check
+
+Planet	Time	Bearing	Elevation	Status
+Venus	2026-06-06 22:29 BST	291.9 deg (WNW)	14.1 deg	above horizon
+Jupiter	2026-06-06 22:29 BST	288.6 deg (WNW)	13.7 deg	above horizon
+
+Asterism / constellation	Status
+Big Dipper / Ursa Major	at least partly above horizon
+Cassiopeia	at least partly above horizon
+Orion	at least partly above horizon
+Cygnus	at least partly above horizon
+Lyra	at least partly above horizon
+Bootes	at least partly above horizon
