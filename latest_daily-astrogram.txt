@@ -2,38 +2,38 @@ Quantity	Value
 Location	Scotland, United Kingdom (approximate)
 Coordinates	57.2 N, 2.3 W (approx.)
 Location source	approximate (rounded to ~10 km for privacy)
-Date	2026-10-26
-Sunrise	2026-10-26 07:06 BST
-Sunrise bearing	112.0 deg (ESE)
-Solar noon	2026-10-26 12:53 BST
-Solar noon altitude	20.3 deg
+Date	2026-10-27
+Sunrise	2026-10-27 07:08 BST
+Sunrise bearing	112.7 deg (ESE)
+Solar noon	2026-10-27 12:53 BST
+Solar noon altitude	20.0 deg
 Solar noon azimuth	180.0 deg (S)
-Sunset	2026-10-26 16:38 BST
-Sunset bearing	247.7 deg (WSW)
-Day length	9 h 33 min
-Planet/asterism positions shown at	2026-10-26 17:08 BST
+Sunset	2026-10-27 16:36 BST
+Sunset bearing	247.1 deg (WSW)
+Day length	9 h 28 min
+Planet/asterism positions shown at	2026-10-27 17:06 BST
 
 Hiker brief	Value
 Magnetic declination	-0.1 deg (west)
 Compass note	small locally; still set compass/map declination if navigating precisely
-Civil twilight	2026-10-26 07:26 BST to 2026-10-26 18:22 BST
-Nautical twilight	2026-10-26 06:42 BST to 2026-10-26 19:06 BST
-Astronomical twilight	2026-10-26 05:58 BST to 2026-10-26 19:50 BST
-Suggested daylight turnaround	2026-10-26 15:08 BST (90 min before sunset)
-Moon phase value	99.8%
-Moon at evening sky time	65.8 deg (ENE), elevation 7.0 deg
-Moonrise / moonset	2026-10-26 17:10 BST / 2026-10-26 08:50 BST
-Current weather	conditions unavailable, 6.0 deg C
-Forecast min / max temp	3.4 deg C / 13.1 deg C
-Rain next 24h	2.5 mm
-Wind next 24h	max 36.0 km/h from SW
-Humidity / cloud	91.3% mean humidity; 0.0% max cloud
-Tides nearest coast	Aberdeen (14.8 km to station): High 00:37 BST (4.4 m); Low 06:52 BST (0.6 m); High 13:08 BST (4.4 m); Low 19:06 BST (0.8 m)
+Civil twilight	2026-10-27 07:28 BST to 2026-10-27 18:20 BST
+Nautical twilight	2026-10-27 06:44 BST to 2026-10-27 19:04 BST
+Astronomical twilight	2026-10-27 06:00 BST to 2026-10-27 19:48 BST
+Suggested daylight turnaround	2026-10-27 15:06 BST (90 min before sunset)
+Moon phase value	99.0%
+Moon at evening sky time	51.8 deg (NE), elevation 4.1 deg
+Moonrise / moonset	2026-10-27 17:30 BST / 2026-10-27 10:30 BST
+Current weather	conditions unavailable, 10.0 deg C
+Forecast min / max temp	5.1 deg C / 13.3 deg C
+Rain next 24h	0.0 mm
+Wind next 24h	max 27.4 km/h from SSW
+Humidity / cloud	79.4% mean humidity; 0.0% max cloud
+Tides nearest coast	Aberdeen (14.8 km to station): High 01:16 BST (4.5 m); Low 07:28 BST (0.6 m); High 13:46 BST (4.4 m); Low 19:45 BST (0.8 m)
 Foraging caution	possible seasonal plants include nettle, dandelion, sorrel, chickweed, wild garlic; do not eat without positive ID and lookalike check
 
 Planet	Time	Bearing	Elevation	Status
-Venus	2026-10-26 17:08 BST	256.7 deg (WSW)	-11.4 deg	below horizon
-Jupiter	2026-10-26 17:08 BST	324.1 deg (NW)	-12.4 deg	below horizon
+Venus	2026-10-27 17:06 BST	257.7 deg (WSW)	-11.5 deg	below horizon
+Jupiter	2026-10-27 17:06 BST	324.4 deg (NW)	-12.5 deg	below horizon
 
 Asterism / constellation	Status
 Big Dipper / Ursa Major	at least partly above horizon
